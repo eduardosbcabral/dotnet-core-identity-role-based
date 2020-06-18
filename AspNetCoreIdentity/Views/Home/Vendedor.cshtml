@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p supress-by-claim-name="Vendedor" supress-by-claim-value="Excluir">
+    <a asp-action="Create" class="btn btn-outline-primary">Vendedor pode Excluir Registro</a>
+</p>
+
+<p supress-by-claim-name="Vendedor" supress-by-claim-value="Criar">
+    <a asp-action="Create" class="btn btn-outline-primary">Vendedor pode Criar Registro</a>
+</p>

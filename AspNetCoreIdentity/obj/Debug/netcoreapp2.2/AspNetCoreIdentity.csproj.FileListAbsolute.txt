@@ -1,0 +1,142 @@
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\appsettings.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.deps.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.dev.json
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.dll
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csprojAssemblyReference.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.AssemblyInfoInputs.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.AssemblyInfo.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.TagHelpers.input.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.TagHelpers.output.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorCoreGenerate.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorTargetAssemblyInfo.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorTargetAssemblyInfo.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.genruntimeconfig.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.pdb
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.dll
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.pdb
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csproj.CoreCompileInputs.cache
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.pdb
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.dll
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.pdb
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csproj.CopyComplete
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Vendedor.cshtml.g.cs
+C:\src\A Identity2.0\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.deps.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.dev.json
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.dll
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.pdb
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.dll
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.pdb
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.TagHelpers.input.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.TagHelpers.output.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorCoreGenerate.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Vendedor.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorTargetAssemblyInfo.cs
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.Views.pdb
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.dll
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.pdb
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\codigos\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csproj.CopyComplete
