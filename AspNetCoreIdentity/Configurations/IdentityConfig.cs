@@ -28,6 +28,7 @@ namespace AspNetCoreIdentity.Configurations
 
 
             services.AddDefaultIdentity<Usuario>()
+                .AddRoles<PerfilAcesso>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<AspNetCoreIdentityContext>();
 

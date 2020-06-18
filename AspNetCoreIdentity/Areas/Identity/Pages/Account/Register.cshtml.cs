@@ -78,14 +78,14 @@ namespace AspNetCoreIdentity.Areas.Identity.Pages.Account
                 {
                     _logger.LogInformation("User created a new account with password.");
 
+                    // Recupera a role Administrador da tabela AspNetRules
+                    var roleAdministrador = await _roleManager.FindByNameAsync("Administrador");
 
-                    PerfilAcesso role = new PerfilAcesso();
+                    // Salva na tabela AspNetRoleClaims
+                    await _roleManager.AddClaimAsync(roleAdministrador, new Claim("Administrador", "Criar,Editar,Excluir,Visualizar"));
 
-                    role.Name = "Administrador";
-
-                    await _roleManager.CreateAsync(role);
-
-                    await _roleManager.AddClaimAsync(role, new Claim("Administrador", "Criar,Editar,Excluir,Visualizar"));
+                    // Salva na tabela AspNetUserRoles
+                    await _userManager.AddToRoleAsync(user, roleAdministrador.Name);
 
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     var callbackUrl = Url.Page(

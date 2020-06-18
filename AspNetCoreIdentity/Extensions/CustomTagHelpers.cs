@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AspNetCoreIdentity.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using Microsoft.AspNetCore.Routing;
@@ -12,11 +13,11 @@ namespace AspNetCoreIdentity.Extensions
     public class ApagaElementoByRoleTagHelper : TagHelper
     {
         private readonly IHttpContextAccessor _contextAccessor;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<PerfilAcesso> _roleManager;
 
         public ApagaElementoByRoleTagHelper(
             IHttpContextAccessor contextAccessor,
-            RoleManager<IdentityRole> roleManager)
+            RoleManager<PerfilAcesso> roleManager)
         {
             _contextAccessor = contextAccessor;
             _roleManager = roleManager;
@@ -48,9 +49,9 @@ namespace AspNetCoreIdentity.Extensions
     public class DesabilitaLinkByRoleTagHelper : TagHelper
     {
         private readonly IHttpContextAccessor _contextAccessor;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<PerfilAcesso> _roleManager;
 
-        public DesabilitaLinkByRoleTagHelper(IHttpContextAccessor contextAccessor, RoleManager<IdentityRole> roleManager)
+        public DesabilitaLinkByRoleTagHelper(IHttpContextAccessor contextAccessor, RoleManager<PerfilAcesso> roleManager)
         {
             _contextAccessor = contextAccessor;
             _roleManager = roleManager;

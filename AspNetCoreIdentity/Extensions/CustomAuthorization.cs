@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AspNetCoreIdentity.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
@@ -11,7 +12,7 @@ namespace AspNetCoreIdentity.Extensions
 {
     public class CustomAuthorization
     {
-        public static bool ValidarRolesUsuario(HttpContext context, RoleManager<IdentityRole> roleManager, string roleName, string roleValue)
+        public static bool ValidarRolesUsuario(HttpContext context, RoleManager<PerfilAcesso> roleManager, string roleName, string roleValue)
         {
             var role = roleManager
                 .Roles
@@ -38,9 +39,9 @@ namespace AspNetCoreIdentity.Extensions
     public class RequisitoClaimFilter : IAuthorizationFilter
     {
         private readonly Claim _claim;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<PerfilAcesso> _roleManager;
 
-        public RequisitoClaimFilter(Claim claim, RoleManager<IdentityRole> roleManager)
+        public RequisitoClaimFilter(Claim claim, RoleManager<PerfilAcesso> roleManager)
         {
             _claim = claim;
             _roleManager = roleManager;
