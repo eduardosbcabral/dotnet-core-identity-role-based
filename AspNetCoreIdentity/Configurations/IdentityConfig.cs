@@ -1,4 +1,5 @@
 ﻿using AspNetCoreIdentity.Areas.Identity.Data;
+using AspNetCoreIdentity.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -26,7 +27,7 @@ namespace AspNetCoreIdentity.Configurations
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
 
-            services.AddDefaultIdentity<IdentityUser>()
+            services.AddDefaultIdentity<Usuario>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<AspNetCoreIdentityContext>();
 

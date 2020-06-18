@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Identity;
+using AspNetCoreIdentity.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace AspNetCoreIdentity.Areas.Identity.Data
 {
-    public class AspNetCoreIdentityContext : IdentityDbContext<IdentityUser>
+    public class AspNetCoreIdentityContext : IdentityDbContext<Usuario, PerfilAcesso, Guid>
     {
         public AspNetCoreIdentityContext(DbContextOptions<AspNetCoreIdentityContext> options)
             : base(options)

@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
+using AspNetCoreIdentity.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -13,13 +14,13 @@ namespace AspNetCoreIdentity.Areas.Identity.Pages.Account.Manage
 {
     public partial class IndexModel : PageModel
     {
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly UserManager<Usuario> _userManager;
+        private readonly SignInManager<Usuario> _signInManager;
         private readonly IEmailSender _emailSender;
 
         public IndexModel(
-            UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager,
+            UserManager<Usuario> userManager,
+            SignInManager<Usuario> signInManager,
             IEmailSender emailSender)
         {
             _userManager = userManager;
@@ -55,6 +56,9 @@ namespace AspNetCoreIdentity.Areas.Identity.Pages.Account.Manage
             {
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
             }
+
+            var a = await _userManager.GetRolesAsync(user);
+            var b = await _userManager.GetClaimsAsync(user);
 
             var userName = await _userManager.GetUserNameAsync(user);
             var email = await _userManager.GetEmailAsync(user);

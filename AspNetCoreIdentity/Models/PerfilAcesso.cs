@@ -3,9 +3,7 @@ using System;
 
 namespace AspNetCoreIdentity.Models
 {
-    public class PerfilAcesso :IdentityRoleClaim<Guid>
+    public class PerfilAcesso : IdentityRole<Guid>
     {
-
-
     }
 }

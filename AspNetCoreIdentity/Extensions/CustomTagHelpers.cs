@@ -1,26 +1,32 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using Microsoft.AspNetCore.Routing;
 using System;
+using System.Linq;
 
 namespace AspNetCoreIdentity.Extensions
 {
-    [HtmlTargetElement("*", Attributes = "supress-by-claim-name")]
-    [HtmlTargetElement("*", Attributes = "supress-by-claim-value")]
-    public class ApagaElementoByClaimTagHelper : TagHelper
+    [HtmlTargetElement("*", Attributes = "supress-by-role-name")]
+    [HtmlTargetElement("*", Attributes = "supress-by-role-value")]
+    public class ApagaElementoByRoleTagHelper : TagHelper
     {
         private readonly IHttpContextAccessor _contextAccessor;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public ApagaElementoByClaimTagHelper(IHttpContextAccessor contextAccessor)
+        public ApagaElementoByRoleTagHelper(
+            IHttpContextAccessor contextAccessor,
+            RoleManager<IdentityRole> roleManager)
         {
             _contextAccessor = contextAccessor;
+            _roleManager = roleManager;
         }
 
-        [HtmlAttributeName("supress-by-claim-name")]
-        public string IdentityClaimName { get; set; }
+        [HtmlAttributeName("supress-by-role-name")]
+        public string IdentityRoleClaimName { get; set; }
 
-        [HtmlAttributeName("supress-by-claim-value")]
-        public string IdentityClaimValue { get; set; }
+        [HtmlAttributeName("supress-by-role-value")]
+        public string IdentityRoleClaimValue { get; set; }
 
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
@@ -29,7 +35,7 @@ namespace AspNetCoreIdentity.Extensions
             if (output == null)
                 throw new ArgumentNullException(nameof(output));
 
-            var temAcesso = CustomAuthorization.ValidarClaimsUsuario(_contextAccessor.HttpContext, IdentityClaimName, IdentityClaimValue);
+            var temAcesso = CustomAuthorization.ValidarRolesUsuario(_contextAccessor.HttpContext, _roleManager, IdentityRoleClaimName, IdentityRoleClaimValue);
 
             if (temAcesso) return;
 
@@ -37,21 +43,23 @@ namespace AspNetCoreIdentity.Extensions
         }
     }
 
-    [HtmlTargetElement("a", Attributes = "disable-by-claim-name")]
-    [HtmlTargetElement("a", Attributes = "disable-by-claim-value")]
-    public class DesabilitaLinkByClaimTagHelper : TagHelper
+    [HtmlTargetElement("a", Attributes = "disable-by-role-name")]
+    [HtmlTargetElement("a", Attributes = "disable-by-role-value")]
+    public class DesabilitaLinkByRoleTagHelper : TagHelper
     {
         private readonly IHttpContextAccessor _contextAccessor;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public DesabilitaLinkByClaimTagHelper(IHttpContextAccessor contextAccessor)
+        public DesabilitaLinkByRoleTagHelper(IHttpContextAccessor contextAccessor, RoleManager<IdentityRole> roleManager)
         {
             _contextAccessor = contextAccessor;
+            _roleManager = roleManager;
         }
 
-        [HtmlAttributeName("disable-by-claim-name")]
+        [HtmlAttributeName("disable-by-role-name")]
         public string IdentityClaimName { get; set; }
 
-        [HtmlAttributeName("disable-by-claim-value")]
+        [HtmlAttributeName("disable-by-role-value")]
         public string IdentityClaimValue { get; set; }
 
         public override void Process(TagHelperContext context, TagHelperOutput output)
@@ -61,7 +69,7 @@ namespace AspNetCoreIdentity.Extensions
             if (output == null)
                 throw new ArgumentNullException(nameof(output));
 
-            var temAcesso = CustomAuthorization.ValidarClaimsUsuario(_contextAccessor.HttpContext, IdentityClaimName, IdentityClaimValue);
+            var temAcesso = CustomAuthorization.ValidarRolesUsuario(_contextAccessor.HttpContext, _roleManager, IdentityClaimName, IdentityClaimValue);
 
             if (temAcesso) return;
 
